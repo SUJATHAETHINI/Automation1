@@ -7,6 +7,7 @@ public class addition_arithematicoperation {
 		int aa=50;int bb=100;int cc;
 		cc=aa+bb;
 		System.out.println(cc);
+		System.out.println("its my second github program");
 
 	}
 
